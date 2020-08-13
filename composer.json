@@ -29,12 +29,5 @@
     "psr-4": {
       "ZepFietje\\Route\\Tests\\": "tests"
     }
-  },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "ZepFietje\\Route\\RouteServiceProvider"
-      ]
-    }
   }
 }
